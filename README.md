@@ -23,5 +23,5 @@
 
 <div>
   <h3>our patners:</h3>
-<img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/94785948?v=4">
+<a href="https://github.com/PILOTEZEBS"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/94785948?v=4"></a>
 </div>
