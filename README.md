@@ -20,3 +20,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christ118&show_icons=true&locale=en&layout=compact" alt="christ118" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christ118&" alt="christ118" /></p>
+
+<div>
+  <h3>my patners:</h3>
+<img src="https://avatars.githubusercontent.com/u/94785948?v=4">
+</div>
