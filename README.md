@@ -22,6 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christ118&" alt="christ118" /></p>
 
 <div>
-  <h3>my patners:</h3>
-<img src="https://avatars.githubusercontent.com/u/94785948?v=4">
+  <h3>our patners:</h3>
+<img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/94785948?v=4">
 </div>
