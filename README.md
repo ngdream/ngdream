@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christ118&show_icons=true&locale=en&layout=compact" alt="christ118" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christ118&" alt="christ118" /></p>
+
 
 <div>
   <h3>our patners:</h3>
