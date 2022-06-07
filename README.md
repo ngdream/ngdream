@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christ118&label=Profile%20views&color=0e75b6&style=flat" alt="christ118" /> </p>
 
-
+<p> we are a new startup located in cameroon our goal is to create software to help everyone achieve their goals
+this github repository is the main repository of Elodream if you need our services do not hesitate to contact us </p>
 
 - 🔭 we are currently working on **jsinfinity and jstore**
 
@@ -21,5 +22,5 @@
 
 <div>
   <h3>our patners:</h3>
-<a href="https://github.com/PILOTEZEBS"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/94785948?v=4"></a>
+<a href="https://github.com/PILOTEZEBS" title="Nguena zebs haupur"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/94785948?v=4"></a>
 </div>
