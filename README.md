@@ -18,12 +18,13 @@ I currently master many programming languages:
 ### thecnogies i use in c++
 i use many thecnologie essentially gui library:
 - gtk
--qt
--fltk
--v8
+- qt
+- fltk
+- v8
 ### thecnogies i use in  php
 i only use one thecnology:
--laravel
+- laravel
+- wordpress
 ### thecnologies i use with python
 - pyqt
 -django
