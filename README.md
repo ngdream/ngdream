@@ -7,7 +7,7 @@ my philosophy is: to move forward without ever stopping ,
 
 
 
-![](https://github.com/Christ118/Christ118/blob/a843bf2fb82fc0d7aab40bca1ff881cddb7d7937/circle0595.png)
+![](https://github.com/Christ118/Christ118/blob/f6d30beea41cb3617c1f9f9b21fe543760bd6462/sicon.png)
 ## my skills 
 
 I am a student of course but I learned programming from a very young age
