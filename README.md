@@ -30,7 +30,7 @@ i only use one thecnology:
 - wordpress
 ### thecnologies i use with python
 - pyqt
--django
+- django
 
 ### thecnologies i use with javascript
 
