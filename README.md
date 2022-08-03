@@ -44,7 +44,8 @@ i also use:
 ## my partners
 people who trust in me  :
 
-![](https://avatars.githubusercontent.com/u/94785948?v=4)
+<img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/>
+
 
 ## support me
 
