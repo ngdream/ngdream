@@ -41,6 +41,11 @@ i also use:
 - bootstrap
 - react js (for  dom)
 
+## my partners
+people who trust in me  :
+
+!()[https://avatars.githubusercontent.com/u/94785948?v=4]
+
 ## support me
 
 if you want supporting me:
