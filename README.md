@@ -44,7 +44,7 @@ i also use:
 ## my partners
 people who trust in me  :
 
-<a><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a>
+<a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a>
 
 
 ## support me
