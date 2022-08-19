@@ -13,12 +13,16 @@ my philosophy is: to move forward without ever stopping ,
 ## my skills 
 
 I am a student of course but I learned programming from a very young age
-I currently master many programming languages:
+I currently use  many  programming languages:
 
-1. c++/c
-2. php
-3. python
-4. javascript
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="100px"/></a>
+
 
 ### thecnogies i use in c++
 i use many thecnologie essentially gui library:
