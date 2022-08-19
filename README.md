@@ -1,4 +1,6 @@
 # about me
+
+[![](https://github.com/ngdream/ngdream/blob/0e88b21cf70a34077b05c15c5223b28fbac3afe1/stickers/hackergirlworking.png)
 ## who i am ?
 my name is nguewo fossong christian i live in cameroon and i am a student at the saint jean university institute
 my dream is to create an organization that will create software that will allow everyone to realize their dreams
@@ -7,7 +9,7 @@ my philosophy is: to move forward without ever stopping ,
 
 
 
-[![](https://github.com/Christ118/Christ118/blob/f6d30beea41cb3617c1f9f9b21fe543760bd6462/sicon.png)](https://github.com/PILOTEZEBS#-jsuis-devjava-eeconcepteur-developpeur-d-application-pour-l-economie-numerique-java-est-mon-langage-de-programmation-ou-jexcel-et-que-jutilise-pour-le-d%C3%A9veloppement-logiciels-et-dapplication-web-avec-j2ee--licence-pro)
+
 ## my skills 
 
 I am a student of course but I learned programming from a very young age
