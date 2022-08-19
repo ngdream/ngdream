@@ -14,7 +14,7 @@ my philosophy is: to move forward without ever stopping ,
 
 I am a student of course but I learned programming from a very young age
 I currently use  many  programming languages:
-
+<div align="center">
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="100px"/></a>
@@ -22,7 +22,7 @@ I currently use  many  programming languages:
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="100px"/></a>
-
+</div>
 
 ### thecnogies i use in c++
 i use many thecnologie essentially gui library:
