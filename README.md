@@ -1,19 +1,23 @@
-# about me
+# thanks to visit me 
 
 [![](https://github.com/ngdream/ngdream/blob/0e88b21cf70a34077b05c15c5223b28fbac3afe1/stickers/hackergirlworking.png)
-## who i am ?
-my name is nguewo fossong christian i live in cameroon and i am a student at the saint jean university institute
+## who i am :smiley_cat: ?
+i am a student at the saint jean university institute
 my dream is to create an organization that will create software that will allow everyone to realize their dreams
+
+**Since I was 5 years old, I've been using computers and have been learning how to use them. 🖥**\
+**Since I was 7, I made simple videogames using GameMaker to have some fun playing them. 🎮**
+
+**i love contribute to project if you're a newbie don't worry to ask my help** 
+
+Currently, I maintain a lot of open-source projects and moderate a lot of communities.
 
 my philosophy is: to move forward without ever stopping ,
 
 
+## my skills :brain:
 
-
-## my skills 
-
-I am a student of course but I learned programming from a very young age
-I currently use  many  programming languages:
+ **I learned programing from a very young age I currently use  many  programming languages:**
 <div align="center">
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="100px"/></a>
@@ -28,7 +32,6 @@ I currently use  many  programming languages:
 i use many thecnologie essentially gui library:
 - gtk
 - qt
-- fltk
 - v8
 ### thecnogies i use in  php
 i only use one thecnology:
@@ -47,6 +50,18 @@ i also use:
 - bootstrap
 - react js (for  dom)
 
+<h2 align="center">GitHub Stats 📊</h2>
+
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ngdream&theme=discord&row=2&column=4"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ngdream&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
+    </a>
+</div>
+
+
 ## my partners
 people who trust in me  :
 
@@ -64,8 +79,6 @@ if you want supporting me:
 <a href="https://www.paypal.com/donate/?hosted_button_id=A89N4QGZCPACG">donate with paypal</a>
 
 
-
-**big thanks to you !**
 
 
 
