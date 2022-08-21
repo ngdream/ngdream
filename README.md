@@ -28,27 +28,13 @@ my philosophy is: to move forward without ever stopping ,
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="100px"/></a>
 </div>
 
-### thecnogies i use in c++
-i use many thecnologie essentially gui library:
-- gtk
-- qt
-- v8
-### thecnogies i use in  php
-i only use one thecnology:
-- laravel
-- wordpress
-### thecnologies i use with python
-- pyqt
-- django
+## contact me
+you can contact by:
+- Discord: Christian19531975#7605
+- telegram : artfana
+- mail: nguewofoss@gmail.com
 
-### thecnologies i use with javascript
 
-- jsinfinity(its a javascript framework that i write by myself and actually maintened by elodream)
-
-### other thecnologie that i use :
-i also use:
-- bootstrap
-- react js (for  dom)
 
 <h2 align="center">GitHub Stats 📊</h2>
 
