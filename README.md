@@ -1,10 +1,8 @@
-# thanks to visit me 
-
-[![](https://github.com/ngdream/ngdream/blob/0e88b21cf70a34077b05c15c5223b28fbac3afe1/stickers/hackergirlworking.png)
-## who i am :smiley_cat: ?
-i am a student at the saint jean university institute
+thanks to visit me 
 =======
-## who i am ?
+![](https://github.com/ngdream/ngdream/blob/0e88b21cf70a34077b05c15c5223b28fbac3afe1/stickers/hackergirlworking.png)
+
+## who i am :smiley_cat:?
 my name is nguewo fossong christian i live in cameroon and i am a student at the saint jean university institute
 
 my dream is to create an organization that will create software that will allow everyone to realize their dreams
