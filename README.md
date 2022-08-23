@@ -7,8 +7,7 @@ my name is nguewo fossong christian i live in cameroon and i am a student at the
 
 my dream is to create an organization that will create software that will allow everyone to realize their dreams
 
-**Since I was 5 years old, I've been using computers and have been learning how to use them. 🖥**\
-**Since I was 7, I made simple videogames using GameMaker to have some fun playing them. 🎮**
+**Since I was 12, I made simple videogames using GameMaker **
 
 **i love contribute to project if you're a newbie don't worry to ask my help** 
 
