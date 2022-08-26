@@ -20,7 +20,7 @@ my philosophy is: to move forward without ever stopping ,
 
  **I learned programing from a very young age I currently use  many  programming languages:**
 <div align="center">
-<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="100px"/></a>
+<a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="68px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="100px"/></a>
 <a><img src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="100px"/></a>
@@ -47,6 +47,10 @@ you can contact by:
         <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ngdream&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
     </a>
 </div>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngdream&langs_count=10&show_icons=true&theme=tokyonight&locale=en&layout=compact" >
+<div/>
 
 
 ## my partners
