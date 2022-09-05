@@ -6,7 +6,7 @@ thanks to visit me
 
 my dream is to create an organization that will create software that will allow everyone to realize their dreams
 
-**Since I was 12, I made simple videogames using GameMaker **
+**Since I was 12, I made simple videogames using GameMaker**
 
 **i love contribute to project if you're a newbie don't worry to ask my help** 
 
@@ -29,8 +29,8 @@ my philosophy is: to move forward without ever stopping ,
 </div>
 
 ## contact me
-you can contact by:
-- Discord: Christian19531975#7605
+you can contact me by:
+- Discord:ngdream#7605
 - telegram : artfana
 - mail: nguewofoss@gmail.com
 
