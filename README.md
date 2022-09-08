@@ -33,22 +33,6 @@ you can contact me by:
 
 
 
-<h2 align="center">GitHub Stats 📊</h2>
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ngdream&theme=discord&row=2&column=4"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ngdream&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
-    </a>
-</div>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngdream&langs_count=10&show_icons=true&theme=tokyonight&locale=en&layout=compact" >
-<div/>
-
-
 ## my partners
 people who trust in me  :
 
@@ -58,12 +42,13 @@ people who trust in me  :
 ## support me
 
 if you want supporting me:
-- you can fork my reositories
+- you can fork my repositories
 - you can donate me a coffee 
+
+
 
 <a href='https://ko-fi.com/A0A5D1Q1P' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=A89N4QGZCPACG">donate with paypal</a>
 
 
 
