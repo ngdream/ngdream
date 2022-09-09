@@ -1,7 +1,11 @@
 thanks to visit me 
 =======
 
-![](stickers/girl10.png)
+<div align="center">
+
+![](stickers/Girl10.png)
+
+</div>
 
 
 ## Hi, I am Kaiwalya! Great to see you here! 👋
