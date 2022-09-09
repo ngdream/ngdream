@@ -1,6 +1,8 @@
 thanks to visit me 
 =======
-![](https://github.com/ngdream/ngdream/blob/0e88b21cf70a34077b05c15c5223b28fbac3afe1/stickers/hackergirlworking.png)
+
+![](stickers/girl10.png)
+
 
 ## Hi, I am Kaiwalya! Great to see you here! 👋
 
