@@ -12,9 +12,10 @@ thanks to visit me
 
 I am nguewo fossong ,i am 19, Currently I am working on yankee (an opensource html builder), Project Maintainer at elodream,student at saint jean intitute. I am a software and Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ngdream-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-ngdream-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
+
 [![Instagram Badge](https://img.shields.io/badge/-kngdream-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
-[![Gmail Badge](https://img.shields.io/badge/-nguewofoss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguewofoss@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nguewofoss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguewofoss@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)-->
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://ngdream.netlify.app/)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ngdream&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
