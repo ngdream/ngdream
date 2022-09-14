@@ -67,10 +67,6 @@ I am nguewo fossong ,i am 19, Currently I am working on yankee (an opensource ht
 <a href='https://ko-fi.com/A0A5D1Q1P' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
-## my partners
-people who trust in me  :
-
-<a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a>
 
 
 
