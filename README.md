@@ -10,7 +10,7 @@ thanks to visit me
 
 ## Hi, I am Ngdream! Great to see you here! 👋
 
-I am nguewo fossong ,i am 19, Currently I am working on yankee (an opensource html builder), Project Maintainer at elodream,student at saint jean intitute. I am a software and Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am nguewo fossong ,i am 19, Currently I am working on yankee (an opensource html builder) and H5assembler :heart:, Project Maintainer at elodream,student at saint jean intitute. I am a software and Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here :smile: :
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-ngdream-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
 
@@ -19,6 +19,11 @@ I am nguewo fossong ,i am 19, Currently I am working on yankee (an opensource ht
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://ngdream.netlify.app/)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ngdream&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ngdream" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ngdream" height="150" alt="languages graph"  />
+</div>
 
 ## ⚡ Technologies
 
