@@ -14,8 +14,8 @@ I am nguewo fossong ,i am 19, Currently I am working on yankee (an opensource ht
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-ngdream-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
 
-[![Instagram Badge](https://img.shields.io/badge/-kngdream-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
-[![Gmail Badge](https://img.shields.io/badge/-nguewofoss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguewofoss@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)-->
+[![Instagram Badge](https://img.shields.io/badge/-kngdream-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)-->
+[![Gmail Badge](https://img.shields.io/badge/-ngdream-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCcrxpGKI-0H1143XCB6HAwQ)](https://www.youtube.com/channel/UCcrxpGKI-0H1143XCB6HAwQ)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://ngdream.netlify.app/)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ngdream&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
