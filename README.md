@@ -1,4 +1,4 @@
-![]("love.png")
+![]("love.svg")
 
 
 
