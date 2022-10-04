@@ -33,15 +33,13 @@
 ![qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
   
- ### Full Stack Projects
+ ### my best projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-:heart:Heart-000)](https://github.com/ngdream/heart)
+[![](https://img.shields.io/badge/-Stringer-000)](https://github.com/ngdream/Stringer)
+[![](https://img.shields.io/badge/-H5assembler-000)](https://github.com/ngdream/H5assembler)
+[![](https://img.shields.io/badge/-noteprof-000)](https://github.com/ngdream/noteprof)
+
 
   <a>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ngdream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
