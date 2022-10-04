@@ -50,7 +50,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ngdream&bg_color=f3a5cf&color=6d3169&line=be1eb3&point=8a0043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img src="https://github.com/ngdream/ngdream/blob/8ac634732b3078eaeadc3c64588304cac1365ed0/banner-bottom.png">
+<img src="banner-bottom.png">
 
 
 
