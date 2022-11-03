@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Trispace:wght@700&display=swap');
+.navbar
+{
+    display: flex;
+    background-color: rgb(15, 15, 15);
+    padding: 20px;
+    width: 100%;
+    position: relative;
+    
+
+}
+
+#links
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#links a
+{
+    margin:0 10px
+}
+.scrolled
+{
+    position: fixed;
+    background-color: #000a;
+    backdrop-filter: blur(8px);
+    
+}
+::-webkit-scrollbar {
+    width: 3px;
+  }
+  ::-webkit-scrollbar:hover {
+  
+    }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #ffffff;
+    border-radius: 5px;
+   
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    width: 10px;
+    
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  
+p
+{
+    font-size: 1.3rem;
+}
+a
+{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: 1.3rem;
+}
+
+.banner
+{
+    align-items: center;
+    justify-content: center;
+}
+
+section
+{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
+section .content
+{
+    width: 100%;
+}
+h2
+{
+    font-size: 2rem;
+}
+nav 
+{
+   
+
+}
+
+
+.title
+{
+    font-size: 3rem;
+    color: white;
+}
+nav  a
+{
+    margin: 10px;
+    color: white;
+    
+}
+
+
+body
+{
+    margin: 0;
+   font-family: 'Pacifico', cursive;
+
+   
+}
+
+*
+{
+    box-sizing: border-box;
+}
