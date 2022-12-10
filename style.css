@@ -11,6 +11,7 @@
 
 }
 
+
 #links
 {
     display: flex;
@@ -26,7 +27,7 @@
 {
     position: fixed;
     background-color: #000a;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(10px);
     
 }
 ::-webkit-scrollbar {
@@ -118,4 +119,33 @@ body
 *
 {
     box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 700px){
+    canvas
+    {
+        display: none !important;;
+    }
+    .canvas-ctn
+    {
+        display: none
+    }
+
+    .banner
+    {
+        height: 80vh;
+    }
+
+    .title
+    {
+        line-height: 58px
+    }
+
+    p
+    {
+       
+        margin-top: 2px;
+    }
+    
 }

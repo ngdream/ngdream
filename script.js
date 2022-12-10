@@ -184,7 +184,8 @@ make_contact_polygon()
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-    if (document.body.scrollTop > 700 || document.documentElement.scrollTop > 700) {
+    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+        if(!document.querySelector(".navbar").classList.contains("scrolled"))
         document.querySelector(".navbar").className+= " scrolled";
   } else {
     document.querySelector(".navbar").className=document.querySelector(".navbar").className.replace(" scrolled","")
