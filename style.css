@@ -6,22 +6,15 @@
     padding: 20px;
     width: 100%;
     position: relative;
-    background-color: #000;
+    background-color: #111;
 
-}
-
-section:nth-child(odd)
-{
-    background-color:black;
-    color:white
 }
 
 section:nth-child(even)
 {
-    background-color:#01000a;
+    background-color:black;
     color:white
 }
-
 
 #links
 {
@@ -82,7 +75,7 @@ a
 {
     align-items: center;
     justify-content: center;
-    background-color: #01000a;
+    background-color: black
     display: flex;
 
 }
