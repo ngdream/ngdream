@@ -3,12 +3,23 @@
 .navbar
 {
     display: flex;
-    background-color: rgb(15, 15, 15);
     padding: 20px;
     width: 100%;
     position: relative;
-    
+    background-color: #000;
 
+}
+
+section:nth-child(odd)
+{
+    background-color:black;
+    color:white
+}
+
+section:nth-child(even)
+{
+    background-color:#01000a;
+    color:white
 }
 
 
@@ -71,6 +82,9 @@ a
 {
     align-items: center;
     justify-content: center;
+    background-color: #01000a;
+    display: flex;
+
 }
 
 section
