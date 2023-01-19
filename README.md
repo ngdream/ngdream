@@ -1,21 +1,10 @@
-<img src="https://github.com/ngdream/ngdream/blob/0f7fe99d6890b4ac7a7cf1650e549b058658c6d8/banner-top.png">
 <div align="center"><img src="https://github.com/ngdream/ngdream/blob/27438ff71840938ac35fc9fd931e80e8a5288c58/love.png"></div>
 
 
 <div align="center">
 
-### Languages
-https://www.paypal.com/donate/?hosted_button_id=2NGECBY5Y635C
+[make a donation](https://www.paypal.com/donate/?hosted_button_id=2NGECBY5Y635C)
 
-  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Php](https://img.shields.io/badge/-Swift-000?&logo=php)
 
 
 ### Technologies
@@ -41,16 +30,8 @@ https://www.paypal.com/donate/?hosted_button_id=2NGECBY5Y635C
 [![](https://img.shields.io/badge/-noteprof-000)](https://github.com/ngdream/noteprof)
 
 
-  <a>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ngdream&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+<img src="https://wakatime.com/share/@645d519a-0eaa-4147-a299-aab0a39b7304/5ee35016-badc-4c00-9be0-ee80ebe818cd.svg">
   
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngdream&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
-  </a> 
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ngdream&bg_color=f3a5cf&color=6d3169&line=be1eb3&point=8a0043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<img src="banner-bottom.png">
 
 
 
