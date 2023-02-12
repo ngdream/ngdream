@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "homepage": "https://gitname.github.io/react-gh-pages",
   "private": true,
-  
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -26,7 +25,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "pdfjs-dist": "^3.2.146"
   }
 }
