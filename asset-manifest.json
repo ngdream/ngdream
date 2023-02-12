@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ngdream/static/css/main.6f0e1fbe.css",
+    "main.js": "/ngdream/static/js/main.d320313a.js",
+    "static/media/kickstart.png": "/ngdream/static/media/kickstart.e27936ec3fc35c1b6808.png",
+    "static/media/krypto.png": "/ngdream/static/media/krypto.ca0e8bf963cc76cfe26c.png",
+    "static/media/project.jpeg": "/ngdream/static/media/project.7063238598429f9a1f79.jpeg",
+    "static/media/home-main.svg": "/ngdream/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/ngdream/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lift.png": "/ngdream/static/media/lift.37d5e75bcb0994102a34.png",
+    "static/media/sajib.pdf": "/ngdream/static/media/sajib.909a82f1f2b77d88491a.pdf",
+    "static/media/home-bg.jpg": "/ngdream/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pg.png": "/ngdream/static/media/pg.0d0d8ff689849d3d367c.png",
+    "static/media/sLogo.png": "/ngdream/static/media/sLogo.fbf5685094ecde30a712.png",
+    "static/media/pre.svg": "/ngdream/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/ngdream/index.html",
+    "main.6f0e1fbe.css.map": "/ngdream/static/css/main.6f0e1fbe.css.map",
+    "main.d320313a.js.map": "/ngdream/static/js/main.d320313a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0e1fbe.css",
+    "static/js/main.d320313a.js"
+  ]
+}
