@@ -9,8 +9,8 @@ html {
       rgba(5, 8, 40, 0.87), rgba(1, 4, 39, 0.925)
     );
   
-    --imp-text-color: #7500fa;
-    --imp-bold-text-color: #7500fa;
+    /* --imp-text-color: #7500fa;
+    --imp-bold-text-color: #7500fa; */
   }
   
   .yellow {
