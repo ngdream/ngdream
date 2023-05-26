@@ -30,7 +30,7 @@ const Contact = () => {
           "service_hde72hg",
           "template_6xelug6",
           form.current,
-          "V1RZnInwGiX02JlF0L"
+          "1RZnInwGiX02JlF0L"
         )
         .then(
           (result) => {
